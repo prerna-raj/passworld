@@ -16,10 +16,12 @@ const Navbar = () => {
                 <a className='hover:font-bold' href="#">Contact</a>
             </li>
         </ul> */}
-        <button className='flex items-center justify-between bg-green-500 p-1 rounded-full ring-1 ring-white'>
+        <a href="https://github.com/prerna-raj" target='_blank' className='flex items-center justify-between bg-green-500 p-1 rounded-lg  ring-1 ring-white'>
+        
           <img src="icons/github.svg" alt="Github logo" className='w-10 p-2' />
           <span className='p-1 font-bold uppercase '>GitHub</span>
-        </button>
+          
+        </a>
         </div>
     </nav>
   )
