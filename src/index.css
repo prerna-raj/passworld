@@ -11,4 +11,11 @@
     height: calc(103.4vh - 160px);
     overflow-x: hidden;
 }
+/* Add this CSS to your stylesheet or component */
+
+.table-container {
+  overflow-x: auto; /* Enable horizontal scrolling */
+  max-width: 100%; /* Set maximum width to ensure responsiveness */
+}
+
   
