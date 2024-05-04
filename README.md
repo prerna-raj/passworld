@@ -7,6 +7,8 @@ Your own password manager
 - https://prerna-raj.github.io/passworld/
 
 #Made with : 
-</b>
+</br>
 - React + vite
-- Tailwind 
+- Tailwind </br>
+
+inspired by codewithharry
