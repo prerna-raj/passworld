@@ -188,7 +188,7 @@ const Manager = () => {
           <h2 className="font-bold text-2xl pb-4">Your passwords</h2>
           {passwordArray.length === 0 && <div>No passwords to show </div>}
           {passwordArray.length != 0 && (
-            <div className="overflow-auto">
+            <div className="overflow-x-auto">
             <table className="table-auto w-full rounded-md mb-10  ">
               <thead className="bg-green-800 text-white ">
                 <tr>
