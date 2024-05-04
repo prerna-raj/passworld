@@ -6,6 +6,7 @@ Your own password manager
 
 - https://prerna-raj.github.io/passworld/
 
-#Made with : </b>
+#Made with : 
+</b>
 -Reract + vite
 - Tailwind 
