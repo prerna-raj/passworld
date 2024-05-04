@@ -8,5 +8,5 @@ Your own password manager
 
 #Made with : 
 </b>
--Reract + vite
+- React + vite
 - Tailwind 
