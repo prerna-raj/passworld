@@ -10,3 +10,4 @@ Your own password manager
 </b>
 - React + vite
 - Tailwind 
+inspired by codewithharry
